@@ -1,12 +1,21 @@
 [{
   "Name": "Mang",
-  "Hobby":"Dancing"
+  "Hobby":"Dancing",
+  "Phone": "1234567",
+  "Age": "??",
+  "Address": "Earth"
 },
   {
     "Name": "Chimmy",
-    "Hobby":"Eating Mochi"
+    "Hobby":"Eating Mochi",
+    "Phone": "1234567",
+    "Age": "??",
+    "Address": "Earth"
   },
   {
     "Name": "RJ",
-    "Hobby":"Looking himself in the mirror"
+    "Hobby":"Looking himself in the mirror",
+    "Phone": "1234567",
+    "Age": "??",
+    "Address": "Earth"
   }]
